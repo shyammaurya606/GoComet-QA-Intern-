@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="runners.TestRunner" time="54.038" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\shyam\Desktop\casekaro-qa-project\casekaro-qa\target\test-classes;C:\Users\shyam\Desktop\casekaro-qa-project\casekaro-qa\target\classes;C:\Users\shyam\.m2\repository\com\microsoft\playwright\playwright\1.44.0\playwright-1.44.0.jar;C:\Users\shyam\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\shyam\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\shyam\.m2\repository\com\microsoft\playwright\driver\1.44.0\driver-1.44.0.jar;C:\Users\shyam\.m2\repository\com\microsoft\playwright\driver-bundle\1.44.0\driver-bundle-1.44.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-java\7.18.0\cucumber-java-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-core\7.18.0\cucumber-core-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-gherkin\7.18.0\cucumber-gherkin-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.18.0\cucumber-gherkin-messages-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\testng-xml-formatter\0.1.0\testng-xml-formatter-0.1.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\query\12.2.0\query-12.2.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\datatable\7.18.0\datatable-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-plugin\7.18.0\cucumber-plugin-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\docstring\7.18.0\docstring-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\html-formatter\21.3.1\html-formatter-21.3.1.jar;C:\Users\shyam\.m2\repository\io\cucumber\junit-xml-formatter\0.4.0\junit-xml-formatter-0.4.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\shyam\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.18.0\cucumber-junit-platform-engine-7.18.0.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-suite\1.10.2\junit-platform-suite-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-suite-api\1.10.2\junit-platform-suite-api-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.10.2\junit-platform-suite-engine-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.10.2\junit-platform-suite-commons-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-launcher\1.10.2\junit-platform-launcher-1.10.2.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-picocontainer\7.18.0\cucumber-picocontainer-7.18.0.jar;C:\Users\shyam\.m2\repository\org\picocontainer\picocontainer\2.15\picocontainer-2.15.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\shyam\AppData\Local\Temp\surefire710980808143168508\surefirebooter-20260501094120280_3.jar C:\Users\shyam\AppData\Local\Temp\surefire710980808143168508 2026-05-01T09-41-20_062-jvmRun1 surefire-20260501094120280_1tmp surefire_0-20260501094120280_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\shyam\Desktop\casekaro-qa-project\casekaro-qa\target\test-classes;C:\Users\shyam\Desktop\casekaro-qa-project\casekaro-qa\target\classes;C:\Users\shyam\.m2\repository\com\microsoft\playwright\playwright\1.44.0\playwright-1.44.0.jar;C:\Users\shyam\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\shyam\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\shyam\.m2\repository\com\microsoft\playwright\driver\1.44.0\driver-1.44.0.jar;C:\Users\shyam\.m2\repository\com\microsoft\playwright\driver-bundle\1.44.0\driver-bundle-1.44.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-java\7.18.0\cucumber-java-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-core\7.18.0\cucumber-core-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-gherkin\7.18.0\cucumber-gherkin-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.18.0\cucumber-gherkin-messages-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\testng-xml-formatter\0.1.0\testng-xml-formatter-0.1.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\query\12.2.0\query-12.2.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\datatable\7.18.0\datatable-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-plugin\7.18.0\cucumber-plugin-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\docstring\7.18.0\docstring-7.18.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\html-formatter\21.3.1\html-formatter-21.3.1.jar;C:\Users\shyam\.m2\repository\io\cucumber\junit-xml-formatter\0.4.0\junit-xml-formatter-0.4.0.jar;C:\Users\shyam\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\shyam\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.18.0\cucumber-junit-platform-engine-7.18.0.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-engine\1.10.2\junit-platform-engine-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-commons\1.10.2\junit-platform-commons-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.2\junit-jupiter-5.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.2\junit-jupiter-api-5.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.2\junit-jupiter-params-5.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.2\junit-jupiter-engine-5.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-suite\1.10.2\junit-platform-suite-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-suite-api\1.10.2\junit-platform-suite-api-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.10.2\junit-platform-suite-engine-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.10.2\junit-platform-suite-commons-1.10.2.jar;C:\Users\shyam\.m2\repository\org\junit\platform\junit-platform-launcher\1.10.2\junit-platform-launcher-1.10.2.jar;C:\Users\shyam\.m2\repository\io\cucumber\cucumber-picocontainer\7.18.0\cucumber-picocontainer-7.18.0.jar;C:\Users\shyam\.m2\repository\org\picocontainer\picocontainer\2.15\picocontainer-2.15.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\shyam"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2026-01-20"/>
+    <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\shyam\Desktop\casekaro-qa-project\casekaro-qa"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\shyam\AppData\Local\Temp\surefire710980808143168508\surefirebooter-20260501094120280_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.18+8"/>
+    <property name="user.name" value="shyam"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.18+8"/>
+    <property name="localRepository" value="C:\Users\shyam\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\shyam\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.18"/>
+    <property name="user.dir" value="C:\Users\shyam\Desktop\casekaro-qa-project\casekaro-qa"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot\bin;C:\Python312\Scripts\;C:\Python312\;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\MinGW\bin\g++.exe;C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin\;C:\Program Files\MongoDB\Server\7.0\bin;C:\Users\shyam\AppData\Roaming\Python\Python312\Scripts;C:\Usersshyam\AppData\Local\Programs\Ollama\;C:\Program Files\Docker\Docker\resources\bin;C:\php;C:\Users\shyam\.local\bin;C:\maven\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot\bin;C:\Users\shyam\AppData\Local\jdk-11.0.2\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\shyam\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\shyam\AppData\Local\Programs\Python\Python311\;C:\Users\shyam\AppData\Local\Microsoft\WindowsApps;C:\Users\shyam\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.1\bin;;C:\Users\shyam\AppData\Roaming\npm;C:\ProgramData\shyam\GitHubDesktop\bin;C:\Users\shyam\AppData\Local\GitHubDesktop\bin;&quot;;C:\mongosh\;C:\Users\shyam\AppData\Local\Programs\Ollama;C:\Users\shyam\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\shyam\AppData\Local\Programs\Kiro\bin;&quot;;C:\Users\shyam\AppData\Roaming\Python\Python311\Scripts;C:\Users\shyam\AppData\Roaming\Python\Python312\Scripts;C:\Users\shyam\AppData\Local\Programs\Antigravity\bin;c:\Users\shyam\.antigravity\extensions\vscjava.vscode-java-debug-0.59.0-universal\bundled\scripts\noConfigScripts;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.18+8"/>
+    <property name="java.specification.maintenance.version" value="1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="Add all 3 material variants of an iPhone 16 Pro case to cart" classname="Purchase iPhone 16 Pro Mobile Covers from CaseKaro" time="53.55">
+    <system-out><![CDATA[
+Scenario: Add all 3 material variants of an iPhone 16 Pro case to cart &amp#27;[90m# features/CaseKaro.feature:9&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mI navigate to the CaseKaro website&amp#27;[0m                             &amp#27;[90m# stepdefs.CaseKaroSteps.i_navigate_to_the_casekaro_website()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI click on &amp#27;[0m&amp#27;[32m&amp#27;[1m"Mobile Covers"&amp#27;[0m&amp#27;[32m category&amp#27;[0m                             &amp#27;[90m# stepdefs.CaseKaroSteps.i_click_on_category(java.lang.String)&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI search for &amp#27;[0m&amp#27;[32m&amp#27;[1m"Apple"&amp#27;[0m&amp#27;[32m using the search button&amp#27;[0m                     &amp#27;[90m# stepdefs.CaseKaroSteps.i_search_for_using_the_search_button(java.lang.String)&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32monly Apple brand products should be visible and no other brands&amp#27;[0m &amp#27;[90m# stepdefs.CaseKaroSteps.only_apple_brand_products_should_be_visible_and_no_other_brands()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI click on &amp#27;[0m&amp#27;[32m&amp#27;[1m"Apple"&amp#27;[0m&amp#27;[32m brand&amp#27;[0m                                        &amp#27;[90m# stepdefs.CaseKaroSteps.i_click_on_brand(java.lang.String)&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI select model &amp#27;[0m&amp#27;[32m&amp#27;[1m"iPhone 16 Pro"&amp#27;[0m                                   &amp#27;[90m# stepdefs.CaseKaroSteps.i_select_model(java.lang.String)&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI click &amp#27;[0m&amp#27;[32m&amp#27;[1m"Choose Options"&amp#27;[0m&amp#27;[32m for the first item&amp#27;[0m                      &amp#27;[90m# stepdefs.CaseKaroSteps.i_click_for_the_first_item(java.lang.String)&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI add the &amp#27;[0m&amp#27;[32m&amp#27;[1m"Hard"&amp#27;[0m&amp#27;[32m material case to cart&amp#27;[0m                           &amp#27;[90m# stepdefs.CaseKaroSteps.i_add_the_material_case_to_cart(java.lang.String)&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI add the &amp#27;[0m&amp#27;[32m&amp#27;[1m"Soft"&amp#27;[0m&amp#27;[32m material case to cart&amp#27;[0m                           &amp#27;[90m# stepdefs.CaseKaroSteps.i_add_the_material_case_to_cart(java.lang.String)&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI add the &amp#27;[0m&amp#27;[32m&amp#27;[1m"Glass"&amp#27;[0m&amp#27;[32m material case to cart&amp#27;[0m                          &amp#27;[90m# stepdefs.CaseKaroSteps.i_add_the_material_case_to_cart(java.lang.String)&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI open the cart&amp#27;[0m                                                  &amp#27;[90m# stepdefs.CaseKaroSteps.i_open_the_cart()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mall 3 material variants should be present in the cart&amp#27;[0m           &amp#27;[90m# stepdefs.CaseKaroSteps.all_3_material_variants_should_be_present_in_the_cart()&amp#27;[0m
+
+========== CART ITEM DETAILS ==========
+--- Item 1 ---
+  Material / Title : Black Marble Texture iPhone 16 Pro Back Cover
+₹ 249.00
+Material: Glass
+  Price            : ₹ 249.00
+  Link             : https://casekaro.com/products/black-marble-texture-iphone-16-pro-back-cover?variant=41757888479350
+--- Item 2 ---
+  Material / Title : Black Marble Texture iPhone 16 Pro Back Cover
+₹ 149.00
+Material: Soft
+  Price            : ₹ 149.00
+  Link             : https://casekaro.com/products/black-marble-texture-iphone-16-pro-back-cover?variant=41700532813942
+--- Item 3 ---
+  Material / Title : Black Marble Texture iPhone 16 Pro Back Cover
+₹ 99.00
+Material: Hard
+  Price            : ₹ 99.00
+  Link             : https://casekaro.com/products/black-marble-texture-iphone-16-pro-back-cover?variant=41700532781174
+========================================
+
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI print the details of all cart items to console&amp#27;[0m                 &amp#27;[90m# stepdefs.CaseKaroSteps.i_print_the_details_of_all_cart_items_to_console()&amp#27;[0m
+]]></system-out>
+  </testcase>
+</testsuite>

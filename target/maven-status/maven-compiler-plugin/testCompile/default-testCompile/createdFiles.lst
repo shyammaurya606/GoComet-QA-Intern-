@@ -1,0 +1,5 @@
+pages\PlaywrightManager.class
+runners\TestRunner.class
+pages\CaseKaroPage$CartItem.class
+pages\CaseKaroPage.class
+stepdefs\CaseKaroSteps.class
